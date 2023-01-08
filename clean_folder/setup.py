@@ -4,7 +4,7 @@ setup(
     name='clean_folder',
     version='1.0.8',
     description='File sorting script',
-    url='https://github.com/Mashimur/hw_python_core',
+    url='https://github.com/Mashimur',
     author='Maria Palona',
     author_email='marjapalenaja90@gmail.com',
     license='MIT',
